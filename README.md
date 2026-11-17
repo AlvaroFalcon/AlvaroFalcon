@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alvaro-falcon-morales/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://alvarofalcon.es"><img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://alvarofalcon.es"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://alvarofalcon.es/devlogs/"><img src="https://img.shields.io/badge/Devlogs-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Devlogs"/></a>
 </p>
 
@@ -29,6 +29,7 @@
 - 📊 **Financial data dashboards** with interactive ECharts, a **Shadcn/ui component library** and a **Next.js SSR architecture** that improved SEO and Core Web Vitals (Sigma Financial AI).
 - 🚀 Helped ship an app to the **stores within 2 weeks** of joining, set up **CI/CD with AI code review** and moved the team to a feature-based architecture (Coinpoints).
 - 🌍 Android features for **Triller**, a social app with 190,000+ store reviews.
+- 🩺 Developed and maintained the Android and iOS apps of **[Nefroconsultor](https://alvarofalcon.es/projects/nefroconsultor/)**, a clinical decision-support tool for Chronic Kidney Disease.
 
 ### 🛠️ Tech stack
 
@@ -44,11 +45,14 @@ Also: React Native · Shadcn/ui · Storybook · React Testing Library · ECharts
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**EasyPixel**](https://github.com/AlvaroFalcon/EasyPixel) | Desktop pixel art editor for game sprites. Ships an **MCP server so Claude can draw live in the editor**, and exports to Godot 4 and 3D voxel models. | React · TypeScript · Electron · MCP |
-| [**Hina**](https://github.com/AlvaroFalcon/hina) | Minimal web platform to learn Hiragana and Katakana with sequential modules and adaptive quizzes. | Next.js 16 · React 19 · Tailwind · Supabase |
-| [**BaKalendar**](https://github.com/AlvaroFalcon/bakalendar_android) | Android app to follow the current anime season, with countdowns to each episode in your timezone. 📲 [On Google Play](https://play.google.com/store/apps/details?id=com.frostfel.animelist) | Kotlin · Android |
-| [**ARPG Game**](https://github.com/AlvaroFalcon/arpg_game) | Top-down action RPG with loot and online co-op, simulated in 2D and rendered as voxels (HD-2D look). 📝 [Read the devlog](https://alvarofalcon.es/devlogs/arpg-game/) | Godot 4 · C# |
-| [**af-ai**](https://github.com/AlvaroFalcon/af-ai) | Claude Code plugins to keep long projects coherent, with Claude coordinating domain agents. | Claude Code · AI agents |
+| [**EasyPixel**](https://github.com/AlvaroFalcon/EasyPixel) | Desktop pixel art editor for game sprites. Ships an **MCP server so Claude can draw live in the editor**, and exports to Godot 4 and 3D voxel models. [Details →](https://alvarofalcon.es/projects/easypixel/) | React · TypeScript · Electron · MCP |
+| [**Wall Street Murloc**](https://alvarofalcon.es/projects/wall-street-murloc/) | Market-analysis tool for a game's auction house: an in-game addon scans the market, a local service stores the history and a web panel shows prices, charts and a market map. 🔒 Private repo. [Details →](https://alvarofalcon.es/projects/wall-street-murloc/) | Python · FastAPI · SQLite · Lua · Supabase |
+| [**Hina**](https://github.com/AlvaroFalcon/hina) | Minimal web platform to learn Hiragana and Katakana with sequential modules and adaptive quizzes. [Details →](https://alvarofalcon.es/projects/hina/) | Next.js 16 · React 19 · Tailwind · Supabase |
+| [**BaKalendar**](https://github.com/AlvaroFalcon/bakalendar_android) | Android app to follow the current anime season, with countdowns to each episode in your timezone. 📲 [On Google Play](https://play.google.com/store/apps/details?id=com.frostfel.animelist) · [Details →](https://alvarofalcon.es/projects/bakalendar/) | Kotlin · Android |
+| [**ARPG Game**](https://github.com/AlvaroFalcon/arpg_game) | Top-down action RPG with loot and online co-op, simulated in 2D and rendered as voxels (HD-2D look). 📝 [Read the devlog](https://alvarofalcon.es/devlogs/arpg-game/) · [Details →](https://alvarofalcon.es/projects/arpg-game/) | Godot 4 · C# |
+| [**af-ai**](https://github.com/AlvaroFalcon/af-ai) | Claude Code plugins to keep long projects coherent, with Claude coordinating domain agents. [Details →](https://alvarofalcon.es/projects/af-ai/) | Claude Code · AI agents |
+
+> 🖼️ Screenshots and write-ups for every project on my [portfolio](https://alvarofalcon.es/#projects).
 
 ---
 
