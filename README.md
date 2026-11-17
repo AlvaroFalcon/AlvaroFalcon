@@ -45,8 +45,8 @@ Also: React Native · Shadcn/ui · Storybook · React Testing Library · ECharts
 | Project | What it is | Stack |
 |---|---|---|
 | [**EasyPixel**](https://github.com/AlvaroFalcon/EasyPixel) | Desktop pixel art editor for game sprites. Ships an **MCP server so Claude can draw live in the editor**, and exports to Godot 4 and 3D voxel models. | React · TypeScript · Electron · MCP |
-| [**Hina**](https://github.com/AlvaroFalcon/hina) | Minimal web platform to learn Hiragana and Katakana with sequential modules and adaptive quizzes. | Next.js 16 · React 19 · Tailwind |
-| [**BaKalendar**](https://github.com/AlvaroFalcon/bakalendar_android) | Android app to follow the current anime season, with countdowns to each episode in your timezone. | Kotlin · Android |
+| [**Hina**](https://github.com/AlvaroFalcon/hina) | Minimal web platform to learn Hiragana and Katakana with sequential modules and adaptive quizzes. | Next.js 16 · React 19 · Tailwind · Supabase |
+| [**BaKalendar**](https://github.com/AlvaroFalcon/bakalendar_android) | Android app to follow the current anime season, with countdowns to each episode in your timezone. 📲 [On Google Play](https://play.google.com/store/apps/details?id=com.frostfel.animelist) | Kotlin · Android |
 | [**ARPG Game**](https://github.com/AlvaroFalcon/arpg_game) | Top-down action RPG with loot and online co-op, simulated in 2D and rendered as voxels (HD-2D look). 📝 [Read the devlog](https://alvarofalcon.es/devlogs/arpg-game/) | Godot 4 · C# |
 | [**af-ai**](https://github.com/AlvaroFalcon/af-ai) | Claude Code plugins to keep long projects coherent, with Claude coordinating domain agents. | Claude Code · AI agents |
 
