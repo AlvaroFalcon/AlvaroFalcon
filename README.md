@@ -25,7 +25,7 @@
 
 ### 💼 Highlights
 
-- 📱 **React Native migration** of native Android/iOS features for **ElTiempo.es**, one of Spain's most used weather apps (Akkodis).
+- 📱 **React Native migration** of native Android/iOS features for a high-traffic consumer app used across Spain (Akkodis).
 - 📊 **Financial data dashboards** with interactive ECharts, a **Shadcn/ui component library** and a **Next.js SSR architecture** that improved SEO and Core Web Vitals (Sigma Financial AI).
 - 🚀 Helped ship an app to the **stores within 2 weeks** of joining, set up **CI/CD with AI code review** and moved the team to a feature-based architecture (Coinpoints).
 - 🌍 Android features for **Triller**, a social app with 190,000+ store reviews.
