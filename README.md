@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Álvaro Falcón 👋</h1>
 
-<h3 align="center">Senior Frontend Engineer · React · React Native · TypeScript</h3>
+<h3 align="center">Senior Frontend Engineer | React | React Native | TypeScript</h3>
 
 <p align="center">
   9+ years building web and mobile products, from financial dashboards to apps used by millions.<br/>
@@ -17,8 +17,8 @@
 
 ### 🧑‍💻 About me
 
-- 📍 Based in **Las Palmas de Gran Canaria, Spain** · working **remotely** since 2020
-- 🗣️ Spanish (native) · English (C1)
+- 📍 Based in **Las Palmas de Gran Canaria, Spain**, working **remotely** since 2020
+- 🗣️ Spanish (native), English (C1)
 - 🎓 BSc in Computer Science + Postgraduate in Video Game Development (ULPGC)
 - 🤖 Heavy user of **AI-assisted development**: Claude Code, Cursor, MCP servers, AI code review in CI. Certified in *Claude Code in Action*.
 - 🎮 In my free time I build games and creative tools, and write about them in my [devlogs](https://alvarofalcon.es/devlogs/).
@@ -39,18 +39,18 @@
 **Testing, tooling & backend**<br/>
 <img src="https://skillicons.dev/icons?i=jest,vitest,githubactions,git,figma,nodejs,postgres,python&perline=11" alt="Jest, Vitest, GitHub Actions, Git, Figma, Node.js, PostgreSQL, Python"/>
 
-Also: React Native · Shadcn/ui · Storybook · React Testing Library · ECharts · i18n · Electron · Godot (C#)
+Also: React Native, Shadcn/ui, Storybook, React Testing Library, ECharts, i18n, Electron, Godot (C#)
 
 ### 🚀 Side projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**EasyPixel**](https://github.com/AlvaroFalcon/EasyPixel) | Desktop pixel art editor for game sprites. Ships an **MCP server so Claude can draw live in the editor**, and exports to Godot 4 and 3D voxel models. [Details →](https://alvarofalcon.es/projects/easypixel/) | React · TypeScript · Electron · MCP |
-| [**Wall Street Murloc**](https://alvarofalcon.es/projects/wall-street-murloc/) | Market-analysis tool for a game's auction house: an in-game addon scans the market, a local service stores the history and a web panel shows prices, charts and a market map. 🔒 Private repo. [Details →](https://alvarofalcon.es/projects/wall-street-murloc/) | Python · FastAPI · SQLite · Lua · Supabase |
-| [**Hina**](https://github.com/AlvaroFalcon/hina) | Minimal web platform to learn Hiragana and Katakana with sequential modules and adaptive quizzes. [Details →](https://alvarofalcon.es/projects/hina/) | Next.js 16 · React 19 · Tailwind · Supabase |
-| [**BaKalendar**](https://github.com/AlvaroFalcon/bakalendar_android) | Android app to follow the current anime season, with countdowns to each episode in your timezone. 📲 [On Google Play](https://play.google.com/store/apps/details?id=com.frostfel.animelist) · [Details →](https://alvarofalcon.es/projects/bakalendar/) | Kotlin · Android |
-| [**ARPG Game**](https://github.com/AlvaroFalcon/arpg_game) | Top-down action RPG with loot and online co-op, simulated in 2D and rendered as voxels (HD-2D look). 📝 [Read the devlog](https://alvarofalcon.es/devlogs/arpg-game/) · [Details →](https://alvarofalcon.es/projects/arpg-game/) | Godot 4 · C# |
-| [**af-ai**](https://github.com/AlvaroFalcon/af-ai) | Claude Code plugins to keep long projects coherent, with Claude coordinating domain agents. [Details →](https://alvarofalcon.es/projects/af-ai/) | Claude Code · AI agents |
+| [**EasyPixel**](https://github.com/AlvaroFalcon/EasyPixel) | Desktop pixel art editor for game sprites. Ships an **MCP server so Claude can draw live in the editor**, and exports to Godot 4 and 3D voxel models. [Details →](https://alvarofalcon.es/projects/easypixel/) | React, TypeScript, Electron, MCP |
+| [**Wall Street Murloc**](https://alvarofalcon.es/projects/wall-street-murloc/) | Market-analysis tool for a game's auction house: an in-game addon scans the market, a local service stores the history and a web panel shows prices, charts and a market map. 🔒 Private repo. [Details →](https://alvarofalcon.es/projects/wall-street-murloc/) | Python, FastAPI, SQLite, Lua, Supabase |
+| [**Hina**](https://github.com/AlvaroFalcon/hina) | Minimal web platform to learn Hiragana and Katakana with sequential modules and adaptive quizzes. [Details →](https://alvarofalcon.es/projects/hina/) | Next.js 16, React 19, Tailwind, Supabase |
+| [**BaKalendar**](https://github.com/AlvaroFalcon/bakalendar_android) | Android app to follow the current anime season, with countdowns to each episode in your timezone. 📲 [On Google Play](https://play.google.com/store/apps/details?id=com.frostfel.animelist). [Details →](https://alvarofalcon.es/projects/bakalendar/) | Kotlin, Android |
+| [**ARPG Game**](https://github.com/AlvaroFalcon/arpg_game) | Top-down action RPG with loot and online co-op, simulated in 2D and rendered as voxels (HD-2D look). 📝 [Read the devlog](https://alvarofalcon.es/devlogs/arpg-game/). [Details →](https://alvarofalcon.es/projects/arpg-game/) | Godot 4, C# |
+| [**af-ai**](https://github.com/AlvaroFalcon/af-ai) | Claude Code plugins to keep long projects coherent, with Claude coordinating domain agents. [Details →](https://alvarofalcon.es/projects/af-ai/) | Claude Code, AI agents |
 
 > 🖼️ Screenshots and write-ups for every project on my [portfolio](https://alvarofalcon.es/#projects).
 
